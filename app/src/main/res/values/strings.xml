@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Task2</string>
+    <string name="app_name">Прак2</string>
     <string name="text_message">Добро пожаловать!</string>
+    <string name="button_send">Показать версию андройд</string>
 </resources>

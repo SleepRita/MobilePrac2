@@ -3,6 +3,8 @@
     <style name="Base.Theme.Task2" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FF018786</item>
     </style>
 
     <style name="Theme.Task2" parent="Base.Theme.Task2" />
